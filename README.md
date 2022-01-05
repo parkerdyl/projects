@@ -10,13 +10,13 @@ Programming Language <br />
 IDE/Software Name <br />
 Description <br />
 
-COM3025
+COM3025 <br />
 Deep Learning and Advanced Artificial Intelligence <br />
 Python <br />
 Google Colab <br />
 Classified the type of brain tumour a patient has based on various models trained from T1-weighted MRI slices. The three types of brain tumour focused on were meningioma, glioma, and pituitary. Different techniques and models were used to improve the accuracy of classification of the tumour and detection of the location of the tumour. I was successful in implementing a classification model with over 90 percent accuracy when classifying unseen data. An object detection model that can detect the location of the patient’s tumour was also implemented. This was achieved through the use of Google Colab.
 
-VSA
+VSA <br />
 Professional Project (Virtual Sales Assistant) <br />
 Java <br />
 Android Studio <br />
