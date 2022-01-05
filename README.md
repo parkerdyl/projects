@@ -12,7 +12,7 @@ Folder Name
 The folder name is always the primary programming language used within the files contained in the folder. For each file in the designated folder a number is assigned.
 
 Python
-1 Deep Learning and Advanced Artificial Intelligence
+/n1 Deep Learning and Advanced Artificial Intelligence
 1 Google Colab
 1 Classified the type of brain tumour a patient has based on various models trained from T1-weighted MRI slices. The three types of brain tumour focused on were meningioma, glioma, and pituitary. Different techniques and models were used to improve the accuracy of classification of the tumour and detection of the location of the tumour. I was successful in implementing a classification model with over 90 percent accuracy when classifying unseen data. An object detection model that can detect the location of the patient’s tumour was also implemented. This was achieved through the use of Google Colab.
 
